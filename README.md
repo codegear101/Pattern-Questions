@@ -42,3 +42,13 @@ Solution [Question-1](pattern.cpp).
   ```
 
  Solution [Question-4](pattern4.cpp).
+ 
+**Question-5: program to draw a pattern of inverted pyramid with stars the no. of n were given by the user**
+```
+ 1
+ 2 2
+ 3 3 3
+ 4 4 4 4
+ 5 5 5 5 5
+```
+ Solution [Question-5](pattern5.cpp).
