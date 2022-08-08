@@ -94,7 +94,7 @@ Solution [Question-1](pattern.cpp).
  0 1 0 1
  1 0 1 0 1
  ```
-   Solution [Question-9]([pattern 10.cpp](https://github.com/codegear101/Pattern-Questions/blob/main/pattern%2010.cpp)).
+   Solution [Question-9](https://github.com/codegear101/Pattern-Questions/blob/main/pattern%2010.cpp).
    
 **Question-10: rhombus pattern**
 ```
