@@ -136,11 +136,12 @@ Solution [Question-1](pattern.cpp).
    * * * * *
      * * *
        *
-       ```
+       
+  ```
     Solution [Question-13](pattern14.cpp).
     
 **Question-14: zig-zag pattern**
-```
+
 ```
       *       *
     *   *   *   *
