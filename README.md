@@ -138,7 +138,7 @@ Solution [Question-1](pattern.cpp).
        *
        
   ```
-    Solution [Question-13](pattern14.cpp).
+    Solution [Question-13](https://github.com/codegear101/Pattern-Questions/blob/main/pattern14.cpp).
     
 **Question-14: zig-zag pattern**
 
