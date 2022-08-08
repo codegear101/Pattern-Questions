@@ -20,7 +20,8 @@ Solution [Question-1](pattern.cpp).
   *       *
   * * * * *
   ```
-  Solution [Question-2](pattern2.cpp).
+
+Solution [Question-2](pattern2.cpp).
 
 **Question-3: program to draw a pattern of inverted pyramid with stars the no. of n were given by the user**
 ```
@@ -138,7 +139,8 @@ Solution [Question-1](pattern.cpp).
        *
        
   ```
-    Solution [Question-13](https://github.com/codegear101/Pattern-Questions/blob/main/pattern14.cpp).
+   
+   Solution [Question-13](https://github.com/codegear101/Pattern-Questions/blob/main/pattern14.cpp).
     
 **Question-14: zig-zag pattern**
 
