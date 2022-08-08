@@ -40,4 +40,5 @@ Solution [Question-1](pattern.cpp).
     * * * *
   * * * * *
   ```
-    Solution [Question-4](pattern4.cpp).
+
+ Solution [Question-4](pattern4.cpp).
