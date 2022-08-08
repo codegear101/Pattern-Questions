@@ -141,7 +141,7 @@ Solution [Question-1](pattern.cpp).
     
 **Question-14: zig-zag pattern**
 ```
-
+```
       *       *
     *   *   *   *
   *       *       *
