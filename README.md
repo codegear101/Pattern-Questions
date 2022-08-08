@@ -8,3 +8,5 @@
      *****
      *****
 ```
+Solution [Question-1](pattern.cpp).
+
